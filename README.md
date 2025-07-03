@@ -1,7 +1,7 @@
 # Gender-Classification-Deep-Learning-Model-For-Comys-Hackathon-2025
-This project fine-tunes a pretrained ResNet-18 convolutional neural network to classify gender (male/female) from facial images. The model is trained using PyTorch, with custom data augmentation and class balancing strategies.
+This project, made for Comys Hackathon 2025 fine-tunes a pretrained ResNet-18 convolutional neural network to classify gender (male/female) from facial images. The model is trained using PyTorch, with custom data augmentation and class balancing strategies.
 # 🚀 Hackathon Task A: Gender Recognition (Folder-wise Matching)
-#pls download task_a ipynb notebook due to its huge size
+#please download task_a ipynb notebook due to its huge size
 #weights and biases for preatrained resnet-18 model are in txt file in details
 
 ---
@@ -50,16 +50,16 @@ This project fine-tunes a pretrained ResNet-18 convolutional neural network to c
 
 ## 📌 Result:
 
-|Final Validation Metrics (Task A - Gender Classification):
-|             | precision|    recall|  f1-score|   support|
+```|Final Validation Metrics (Task A - Gender Classification):
+|             | precision|     recall|  f1-score|    support|
 
-|      female|       0.79|      0.76|      0.77|       79|
-|        male|       0.95|     0.95|     0.95|       343|
+|      female|       0.79|      0.76|      0.77|        79|
+|        male|       0.95|      0.95|      0.95|       343|
 
-|    accuracy|                     |     0.92|      422|
+|    accuracy|                             0.92|       422|
 |   macro avg|       0.87|      0.86|      0.86|       422|
-|weighted avg|       0.92 |     0.92|     0.92|       422|
-
+|weighted avg|       0.92|      0.92|      0.92|       422| 
+```
 * Validation Accuracy: 91.71% *
 
 
