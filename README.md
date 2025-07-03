@@ -48,7 +48,11 @@ The approach involves the following steps:-
 3. Used the pretrained resnet18
 4. Training,classification,accuracy
 ---
+## 📌 Innovations / Notes:
 
+* Balanced performance using weighted loss or oversampling  improves female f1 accuracy in our model.
+* Lightweight architecture (ResNet18) allowed fast convergence with limited compute.
+---
 ## 📌 Result:
 
 ```|Final Validation Metrics (Task A - Gender Classification):
@@ -63,7 +67,7 @@ The approach involves the following steps:-
 ```
 * Validation Accuracy: 91.71% *
 
-
+---
 ## 📌 How to Run:
 
 1.  Upload dataset to Google Colab (train + val folders)
