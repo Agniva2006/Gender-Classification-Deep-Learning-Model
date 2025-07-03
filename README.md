@@ -67,8 +67,8 @@ The approach involves the following steps:-
 ## 📌 How to Run:
 
 1.  Upload dataset to Google Colab (train + val folders)
-2.  Run FaceNet Cosine Matching notebook
-3.  The notebook will:
+2.  Run ResNet-18 Model
+3.  Training And Validation calculation
 
    * Evaluate val set
 4.  For custom testing → Upload any image → Run final test cell
