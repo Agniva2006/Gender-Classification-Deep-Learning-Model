@@ -19,7 +19,7 @@ This project, made for Comys Hackathon 2025 fine-tunes a pretrained ResNet-18 co
 
 ## 📌 Dataset Structure:
 
-
+```
 /train/
     /male/
      maleX.jpg
@@ -32,7 +32,7 @@ This project, made for Comys Hackathon 2025 fine-tunes a pretrained ResNet-18 co
      /female/
      female1.jpg
 
-
+```
 * Each folder = 1 unique individual
   Val contains persons not present in train
 * male and female images are in the the training and validation folder
