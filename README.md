@@ -2,7 +2,7 @@
 This project, made for Comys Hackathon 2025 fine-tunes a pretrained ResNet-18 convolutional neural network to classify gender (male/female) from facial images. The model is trained using PyTorch, with custom data augmentation and class balancing strategies.
 # 🚀 Hackathon Task A: Gender Recognition (Folder-wise Matching)
 >  * Please download Task_A.ipynb notebook due to its huge size.
->  * Weights and biases for preatrained resnet-18 model are provided in txt file in details
+>  * Weights and biases for preatrained resnet-18 model are provided in the weightsAndBiases.txt file in details
 
 ---
 
