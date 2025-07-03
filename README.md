@@ -39,13 +39,13 @@ This project, made for Comys Hackathon 2025 fine-tunes a pretrained ResNet-18 co
 
 ---
 
-## 📌 Solution Approach (Pre-train Resnet18 model):
+# 📌 Solution Approach (Pre-train Resnet18 model):
 
 |steps:
 1.transformed the dataset and prepare the data for pytorch
-          2.due to 1623 male and 303 female images i have made weights for each sample
-      3.use the pretrained resnet18
-   4.training,classification,accuracy
+2.due to 1623 male and 303 female images i have made weights for each sample
+3.use the pretrained resnet18
+4.training,classification,accuracy
 ---
 
 ## 📌 Result:
