@@ -12,8 +12,8 @@ This project fine-tunes a pretrained ResNet-18 convolutional neural network to c
 
 ###  Success Criteria:
 
-|if image is male , output is 1
-|if image is female,output is 0                                         
+* if image is male , output is 1
+* if image is female,output is 0                                         
 
 
 
