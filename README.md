@@ -8,7 +8,7 @@ This project, made for Comys Hackathon 2025 fine-tunes a pretrained ResNet-18 co
 
 ## 📌 Task Objective:
 
-> * Train a model to accurately classify the gender of a face image*
+> * Train a model to accurately classify the gender of a face image. if image is distorted, black and while or hazy it can predict also*
 
 ###  Success Criteria:
 
