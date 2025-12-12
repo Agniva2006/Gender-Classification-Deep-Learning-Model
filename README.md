@@ -76,6 +76,7 @@ The approach involves the following steps:-
 4.  For custom testing → Upload any image → Run final test cell
 
 ---
+<img width="1049" height="865" alt="image" src="https://github.com/user-attachments/assets/8a2a9773-feb8-4422-b1e5-7d3b3745886c" />
 
 ## 📌 Extra: Test on Any Distorted Image:
 
